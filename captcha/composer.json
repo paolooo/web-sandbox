@@ -1,0 +1,11 @@
+{
+    "name": "recaptcha",
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "ReCaptcha\\": "src/ReCaptcha"
+        }
+    }
+}
